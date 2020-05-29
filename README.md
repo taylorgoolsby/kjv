@@ -1,4 +1,8 @@
-# kjv
+# es-kjv
+
+This is a fork which allows `kjv` to be imported as an browser native ES module via `import {verses, layout} from 'https://unpkg.com/es-kjv'`.
+
+___
 
 [![Build Status](https://travis-ci.org/farskipper/kjv.svg)](https://travis-ci.org/farskipper/kjv)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
