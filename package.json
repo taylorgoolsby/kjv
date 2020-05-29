@@ -1,5 +1,5 @@
 {
-  "name": "kjv",
+  "name": "es-kjv",
   "version": "1.0.0",
   "description": "King James Version of the Holy Bible as JSON",
   "main": "src/index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/farskipper/kjv.git"
+    "url": "git+https://github.com/taylorgoolsby/kjv.git"
   },
   "keywords": [
     "kjv",
@@ -22,9 +22,9 @@
   "author": "farskipper",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/farskipper/kjv/issues"
+    "url": "https://github.com/taylorgoolsby/kjv/issues"
   },
-  "homepage": "https://github.com/farskipper/kjv#readme",
+  "homepage": "https://github.com/taylorgoolsby/kjv#readme",
   "devDependencies": {
     "ava": "^1.0.1",
     "lodash": "^4.17.4",
